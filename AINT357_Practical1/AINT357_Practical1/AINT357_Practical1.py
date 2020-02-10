@@ -112,6 +112,8 @@ def function(animal): #Declare with argument "animal" which is passed into when 
 
 function("parrot") #Call 
 
+x = max(5, 10) #Return max of two compared numerical values. 
+
 
 
 

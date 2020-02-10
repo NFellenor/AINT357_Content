@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "P3_Recursion_Dynamic_Programming", "P3_Recursion_Dynamic_Programming\P3_Recursion_Dynamic_Programming.pyproj", "{DBF42619-2CD2-445E-B16E-379DB0BEA6D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF42619-2CD2-445E-B16E-379DB0BEA6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF42619-2CD2-445E-B16E-379DB0BEA6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {405B5777-A484-4DA2-A344-FE9AE67DCA53}
+	EndGlobalSection
+EndGlobal
